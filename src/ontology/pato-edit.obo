@@ -107,6 +107,7 @@ name: color
 alt_id: PATO:0000020
 def: "A composite chromatic quality composed of hue, saturation and intensity parts." [PATOC:GVG]
 subset: attribute_slim
+synonym: "chroma" BROAD []
 synonym: "colour" EXACT []
 synonym: "relative color" EXACT []
 is_a: PATO:0000051 ! morphology
